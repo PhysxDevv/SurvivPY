@@ -1,6 +1,6 @@
 ![](https://cdn.discordapp.com/attachments/1028835888475680848/1050416732944224346/image.png)
 -
-#### The **only** [surviv.io](https://surviv.io/) librery writted for Python.
+#### The **only** [surviv.io](https://surviv.io/) librery written for Python.
 >##### Library written by [**PhysxDev#9448**](https://discord.gg/Du3PeShf)
 >##### Contributor: [**AzartX47#6188**](https://discord.gg/Du3PeShf)
 
