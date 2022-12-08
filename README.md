@@ -6,9 +6,7 @@
 
 ## ● **Features**
 ### *Download*
-```python
 [Download Here](https://cdn.discordapp.com/attachments/1031573474814201878/1050440887144038430/surviv.py)
-```
 ### *Import*
 ```python
 from surviv import surviv
